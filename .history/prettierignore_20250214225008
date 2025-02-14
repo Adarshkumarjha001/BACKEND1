@@ -1,0 +1,6 @@
+/.vscode-test
+/node_
+
+*.env
+.env
+.env.*
